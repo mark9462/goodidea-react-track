@@ -1,42 +1,8 @@
 {
   "name": "goodidea-react-track",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mark9462/goodidea-react-track.git"
-  },
-  "author": "Jimmy",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mark9462/goodidea-react-track/issues"
-  },
-  "homepage": "https://github.com/mark9462/goodidea-react-track#readme",
-  "devDependencies": {
-    "@babel/cli": "^7.1.0",
-    "@babel/core": "^7.1.0",
-    "@babel/preset-env": "^7.1.0",
-    "@babel/preset-react": "^7.0.0",
-    "webpack": "^4.19.1",
-    "webpack-cli": "^3.1.1",
-    "webpack-dev-server": "^3.1.8"
-  },
-  "dependencies": {
-    "react": "^16.8.5",
-    "react-dom": "^16.8.5",
-    "react-scripts": "^2.1.8"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "repository": "git@github.com:mark9462/goodidea-react-track.git",
+  "author": "Jimmy Zhang <jack9462@gmail.com>",
+  "license": "MIT"
 }
